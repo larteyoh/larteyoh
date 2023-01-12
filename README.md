@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 - :id: **My name is** (check my profile) <!-- - :baby: **Birthday:** Linus Torvalds' birthday-->
 - :brain: **Skills and talents:** None
+- :briefcase: **My professions are:** Semi-NEET and self-taught hobbyist programmer
 - :desktop_computer: **I’m currently working on** [**neroshop**](https://github.com/larteyoh/testshop)
 - 🌱 **I’m currently learning** C++ and QML
 - 🤔 **I am looking for help with** Peer-to-peer network programming (C/C++)
 - 📫 **How to reach me:** larteyoh@pm.me
 <!-- - :heart: **My hobbies are** watching anime, sleeping, coding, and playing video games
-- :briefcase: **My professions are:** College drop-out, semi-NEET and self-taught hobbyist programmer
 - :joystick: **My favorite video games is (are)** the Monster Hunter series and Shin Megami Tensei series
 - :musical_note: **My favorite music genre(s) is (are)** Rap, Hip-hip; RnB; Pop; Anime OSTs, Video game OSTs, Pretty much everything else-->
