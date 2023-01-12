@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - :briefcase: **My professions are:** Semi-NEET and self-taught hobbyist programmer
 - :desktop_computer: **I’m currently working on** [**neroshop**](https://github.com/larteyoh/testshop)
 - 🌱 **I’m currently learning** C++ and QML
-- 🤔 **I am looking for help with** Peer-to-peer network programming (C/C++)
+- 🤔 **I am looking for help with** Peer-to-peer network programming using cross-platform C/C++ networking libraries preferrably libuv and libzmq
 - 📫 **How to reach me:** larteyoh@pm.me
 <!-- - :heart: **My hobbies are** watching anime, sleeping, coding, and playing video games
 - :joystick: **My favorite video games is (are)** the Monster Hunter series and Shin Megami Tensei series
