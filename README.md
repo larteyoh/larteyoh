@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - :desktop_computer: **I’m currently working on** [**neroshop**](https://github.com/larteyoh/testshop)
 - 🌱 **I’m currently learning** C++ and QML
 - 🤔 **I am looking for help with** Peer-to-peer network programming using cross-platform C/C++ networking libraries preferably libuv and libzmq
-- ⚡ **Fun fact:** I ONLY do static builds (mostly for portability and to prevent dependency hell) unless a library I'm using has a less permissive license like GPL :unamused:
+- ⚡ **Fun fact:** I ONLY do static builds (mostly for portability and to prevent dependency hell) unless a library I'm using is hard to compile from source or has a less permissive license like LGPL :unamused:
 - 📫 **How to reach me:** larteyoh@pm.me
 <!-- - :heart: **My hobbies are** watching anime, sleeping, coding, and playing video games
 - :joystick: **My favorite video games is (are)** the Monster Hunter series and Shin Megami Tensei series
