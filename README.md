@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - :briefcase: **My professions are:** Semi-NEET/hikikomori and self-taught hobbyist programmer
 - :desktop_computer: **I’m currently working on** [**neroshop**](https://github.com/larteyoh/testshop)
 - 🌱 **I’m currently learning** C++ and QML
-- 🤔 **I am looking for help with** Peer-to-peer network programming using cross-platform C/C++ networking libraries (any library is fine as long as its cross-platform)
+- 🤔 **I am looking for help with** Peer-to-peer network programming using cross-platform C/C++ networking libraries (any library will do as long as its cross-platform)
 - ⚡ **Fun fact:** I ONLY do static builds (mostly for portability and to prevent dependency hell) unless a library I'm using is too large or hard to compile from source or has a less permissive license like LGPL :unamused:
 - 📫 **How to reach me:** larteyoh@pm.me
 <!-- - :heart: **My hobbies are** watching anime, sleeping, coding, and playing video games
