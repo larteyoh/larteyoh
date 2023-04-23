@@ -26,3 +26,7 @@ Here are some ideas to get you started:
 <!-- - :heart: **My hobbies are** watching anime, sleeping, coding, listening to music, daydreaming and playing video games (sometimes)
 - :joystick: **My favorite video games is (are)** the Monster Hunter series
 - :musical_note: **My favorite music genre(s) is (are)** Lo-fi, Rap, Hip-hop; RnB; Pop; Anime OSTs, Video game OSTs, and Pretty much everything else ... -->
+
+![Larteyoh's GitHub stats](https://github-readme-stats.vercel.app/api?username=larteyoh&show_icons=true&theme=prussian)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=larteyoh&layout=compact&theme=prussian&langs_count=2)](https://github.com/larteyoh/github-readme-stats)
