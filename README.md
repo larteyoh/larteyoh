@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 
 ![Larteyoh's GitHub stats](https://github-readme-stats.vercel.app/api?username=larteyoh&show_icons=true&theme=prussian)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=larteyoh&layout=compact&theme=prussian&langs_count=2)](https://github.com/larteyoh/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=larteyoh&layout=compact&theme=prussian&langs_count=3)]()
