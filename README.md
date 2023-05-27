@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 - :briefcase: **My professions are:** Semi-NEET/hikikomori and self-taught hobbyist programmer
 - :desktop_computer: **I’m currently working on** [**neroshop**](https://github.com/larteyoh/testshop)
 - 🌱 **I’m currently learning** C++ and QML
-- 🤔 **I am looking for help with** designing a DHT (Distributed Hash Table) and sockets programming using cross-platform C/C++ networking libraries (any library will do as long as it's cross-platform)
-- ⚡ **Fun fact:** I ONLY do static builds (mostly for portability and to prevent dependency hell) unless a library I'm using is too large or hard to compile from source or has a less permissive license like LGPL :unamused:
+- 🤔 **I am looking for help with** understanding the Kademlia DHT (Distributed Hash Table) and sockets programming.
+- ⚡ **Fun fact:** I ONLY do static builds (mostly for portability and to prevent dependency hell) unless a library I'm using is too large or hard to compile from source or has a less permissive license like LGPL (looking at you Qt :unamused:)
 - 📫 **How to reach me:** larteyoh@pm.me
 <!-- - :heart: **My hobbies are** watching anime, sleeping, coding, listening to music, daydreaming and playing video games (sometimes)
 - :joystick: **My favorite video games is (are)** the Monster Hunter series
