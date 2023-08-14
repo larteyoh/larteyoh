@@ -1,7 +1,6 @@
 nothing to see here 🙈, move along ...
 
-- `c++ developer`
-- `lua scripter`
+- `c++ dev, lua scripter`
 - `static builds fan`
 - `snake_case lover`
 - `minimalist coder`
