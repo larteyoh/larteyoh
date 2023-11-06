@@ -1,8 +1,8 @@
 nothing to see here 🙈, move along ...
 
-- c++ dev, lua junkie, some JS (all self-taught — no college education)
+- c++ dev, lua junkie (all self-taught — no college education)
+- not a web developer 🙃
 - static builds fanatic
 - `snake_case` supremacist
-- not a web developer 🙃
 
 📫 larteyoh@pm.me
