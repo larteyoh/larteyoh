@@ -1,6 +1,6 @@
 nothing to see here 🙈, move along ...
 
-- c++ dev, lua junkie (all self-taught — no college education)
+- self-taught c++ software developer
 - not a web developer 🙃
 - static builds fanatic
 - `snake_case` supremacist
